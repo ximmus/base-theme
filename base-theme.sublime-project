@@ -11,7 +11,8 @@
       "fire_app_log.txt",
       ".gitignore",
       ".gitattributes",
-      "config.rb"
+      "config.rb",
+      "README.md"
       ],
     "folder_exclude_patterns":
       [
